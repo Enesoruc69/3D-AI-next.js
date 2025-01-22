@@ -19,4 +19,4 @@ The **Robot Tracker Page** is a Next.js project that features a robot animation 
 - **CSS Modules/Tailwind CSS**: (Optional) Used for styling the application.  
 - **React**: Core library for building the UI.  
 
-![GIF](ai.gif)# 3D-AI-next.js
+![GIF](ai.gif)
